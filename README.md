@@ -1,2 +1,2 @@
-# A
- AAA
+# stock
+ stock
